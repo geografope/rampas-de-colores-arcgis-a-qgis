@@ -4,7 +4,7 @@ En este 📂 repositorio encontrarás una 📜 guía paso a paso para importar l
 Para ello utilizaremos una aplicación desarrollada con Shiny en R que simplifica el proceso, haciéndolo accesible incluso para usuarios sin experiencia en programación. 🌈
 
 <p align='center'>
-<a href=''><img src= "img/app.png" width=300></a>
+<a href='https://geografope.shinyapps.io/script/'><img src= "img/app.png" width=300></a>
 </p>
 
 ## ⚫ Pasos a realizar 
